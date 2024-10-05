@@ -3,7 +3,7 @@
 ## Overview
 This is a fullstack web application designed to connect mentors and mentees. The application features user authentication, mentor search, and individual mentor pages. The client side is built using **React**, while the server side uses **Express**. The database is powered by **PostgreSQL**, and we use **pgAdmin** for database management.
 
-<img src="/.scshootg.jpg" alt="Project Logo" width="400"/>
+<img src="/.scshootg.png" alt="Project Logo" width="400"/>
 
 ## Features
 - **User Authentication**: Sign-up and login functionality for mentors and mentees.
